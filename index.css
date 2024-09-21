@@ -1,0 +1,19 @@
+.div{
+
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px gray;
+    animation: slider 10s linear infinite;
+}
+
+@keyframes slider {
+    0%{background-image: url(assets/7kbG20f.jpeg);}
+    30%{background-image: url(assets/a-lego-brickumentary-1.jpg);}
+    60%{background-image: url(assets/F44er6q.jpeg);}
+    100%{background-image: url(assets/FcrtVMz.jpeg);}
+    100%{background-image: url(assets/IOQYfHk.jpeg);}
+}
+
+.div{
+    width: 600px;
+    height: 500px;
+}
